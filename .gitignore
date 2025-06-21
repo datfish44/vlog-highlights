@@ -1,0 +1,23 @@
+# Python virtualenv
+.venv/
+env/
+venv/
+
+# Pyenv files
+.python-version
+
+# Downloaded videos
+input/
+output/
+clips/
+transcripts/
+
+# Whisper models (if you store them locally)
+whisper.cpp/models/
+
+# OS files
+.DS_Store
+
+# __pycache__ files
+__pycache__/
+*.pyc
